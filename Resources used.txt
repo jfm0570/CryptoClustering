@@ -1,0 +1,3 @@
+https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
+https://holoviz.org/tutorial/Composing_Plots.html
+https://hvplot.holoviz.org/user_guide/Subplots.html
